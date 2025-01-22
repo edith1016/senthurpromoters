@@ -41,7 +41,7 @@
 }
 
 .banner1-img {
-	content: url("../img/banner/banner1.JPG");
+	content: url("../img/banner/banner1.jpeg");
 	display: inline-block;
 }
 .banner2-img {
@@ -49,7 +49,7 @@
 	display: inline-block;
 }
 .banner3-img {
-	content: url("../img/banner/banner1.JPG");
+	content: url("../img/banner/banner1.jpeg");
 	display: inline-block;
 }
 .banner4-img {
@@ -345,23 +345,23 @@
 }
 
 @media only screen and (max-width:320px){
-	.banner1-img {content: url("../img/banner/banner1.JPG");}
+	.banner1-img {content: url("../img/banner/banner1.jpeg");}
 	.banner2-img {content: url("../img/banner/banner2.jpeg");}
-	.banner3-img {content: url("../img/banner/banner1.JPG");}
+	.banner3-img {content: url("../img/banner/banner1.jpeg");}
 	.banner4-img {content: url("../img/banner/banner2.jpeg");}
 }
 
 @media only screen and (max-width:400px) and (min-width:360px) {
-	.banner1-img {content: url("../img/banner/banner1.JPG");}
+	.banner1-img {content: url("../img/banner/banner1.jpeg");}
 	.banner2-img {content: url("../img/banner/banner2.jpeg");}
-	.banner3-img {content: url("../img/banner/banner1.JPG");}
+	.banner3-img {content: url("../img/banner/banner1.jpeg");}
 	.banner4-img {content: url("../img/banner/banner2.jpeg");}
 }
 
 @media only screen and (max-width:667px) and (min-width:400px) {
-	.banner1-img {content: url("../img/banner/banner1.JPG");}
+	.banner1-img {content: url("../img/banner/banner1.jpeg");}
 	.banner2-img {content: url("../img/banner/banner2.jpeg");}
-	.banner3-img {content: url("../img/banner/banner1.JPG");}
+	.banner3-img {content: url("../img/banner/banner1.jpeg");}
 	.banner4-img {content: url("../img/banner/banner2.jpeg");}
 }
 
