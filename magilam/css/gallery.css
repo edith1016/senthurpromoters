@@ -141,11 +141,11 @@
 	.gallery-section {padding: 30px 0 0 0;}
 	.gallery-section h2 {font-size: 1.8rem;}
 	.controls {width: 80%; top: 45%; transform: translateX(37px);}
-	.gallery-image1 {content: url("../img/gallery/img\ \(1\).JPG");}
-	.gallery-image2 {content: url("../img/gallery/img\ \(2\).JPG");}
-	.gallery-image3 {content: url("../img/gallery/img\ \(3\).JPG");}
-	.gallery-image4 {content: url("../img/gallery/img\ \(4\).JPG");}
-	.gallery-image5 {content: url("../img/gallery/img\ \(5\).JPG");}
+	.gallery-image1 {content: url("../img/gallery/img\ \(1\).jpeg");}
+	.gallery-image2 {content: url("../img/gallery/img\ \(2\).jpeg");}
+	.gallery-image3 {content: url("../img/gallery/img\ \(3\).jpeg");}
+	.gallery-image4 {content: url("../img/gallery/img\ \(4\).jpeg");}
+	.gallery-image5 {content: url("../img/gallery/img\ \(5\).jpeg");}
 	.gallery-image6 {content: url("../img/gallery/img\ \(6\).JPG");}
 }
 
